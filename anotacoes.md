@@ -1,0 +1,3 @@
+- criar projeto com vite, tsx
+- instalar e configurar tailwind css
+- usando headless ui para acessibilidade (componente de popover)
